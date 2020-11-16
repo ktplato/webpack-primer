@@ -1,2 +1,2 @@
 # webpack-primer
-webpack入門的に
+webpack入門的な
